@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+
+  background: lightblue
+}
+
+.M{
+  text-align: center;
+  font-family: "Monospace", cursive, sans-seriff;
+  border: 6px ridge lightblue;
+  background-color: white;
+  color:lightblue
+  
+}
+.pc{
+  font-family: "Monospace" ;
+  font-size: 20px;
+  color:white
+   
+}
+.{
+  font-family: "Monospace" ;
+  font-size: 20px;
+  color:floralwhite
+}
+.ipad{
+  font-family: "Monospace" ;
+  font-size: 20px;
+  color:white
+
+}
+.drone{
+  font-family: "Monospace" ;
+  font-size: 20px;
+  color: white
+}
+
+.micro{
+  font-family: "Monospace" ;
+  font-size: 20px;
+  color:white
+}
+.sd{
+  font-family: "Monospace" ;
+  font-size: 20px;
+  color:white
+}
+.IMR{
+  overflow-x: hidden;
+  overflow-y: auto;
+  border: 6px ridge white;
+}
+.myButton {
+color: rgb(255, 255, 255); font-size: 25px; line-height: 25px; padding: 7px; border-radius: 50px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(0, 179, 255) 0%, rgb(108, 217, 255) 100%, rgb(26, 100, 117) 100%); box-shadow: rgba(0, 0, 0, 0.05) 5px 1px 22px 5px; border: 5px outset rgb(255, 255, 255); display: inline-block;}
+.myButton:hover {
+background: #00B3FF; }
+.myButton:active {
+background: #1A6475; }
